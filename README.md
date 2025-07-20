@@ -23,3 +23,6 @@ From File:
 ```bash
 python password_analyzer.py --file passwords.txt
 ```
+# Author
+
+Made by [E1337]. Contributions and feedback are welcome!
