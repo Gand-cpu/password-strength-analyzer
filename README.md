@@ -1,4 +1,4 @@
-#  Password Strength Analyzer (CLI)
+#  Password Strength Analyzer 
 
 Analyze the strength of your passwords with entropy estimation and improvement tips.
 
